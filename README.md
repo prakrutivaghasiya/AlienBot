@@ -10,3 +10,6 @@
 - Tells some facts or provides information about its' Alien planet.
 - Finds the cube of any number.
 - Knows when to stop the conversation.
+
+
+Learnt with [Codecademy-Python Chatbots !](https://www.codecademy.com/learn/paths/build-chatbots-with-python)
