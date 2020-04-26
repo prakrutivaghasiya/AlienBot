@@ -44,7 +44,7 @@ class AlienBot:
   def make_exit(self, reply):
     for exit_command in self.exit_commands:
       if exit_command in reply.lower():
-        print("Ok, have a nice day!")
+        print("Ok, have a nice Earth day!")
         return True
     return False
 
